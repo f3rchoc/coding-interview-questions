@@ -1,4 +1,4 @@
-package ec.ferchoc.letcode;
+package ec.ferchoc.leetcode;
 
 import java.util.Map;
 import java.util.Stack;
@@ -21,7 +21,7 @@ public class ValidParentheses {
 
             if (brackets.containsKey(bracket)) {// is an open bracket
                 values.push(brackets.get(bracket)); // add the close bracket
-            } else if (values.size() > 0 && values.peek() == bracket) {// last element is closed bracket
+            } else if (!values.isEmpty() && values.peek() == bracket) {// last element is closed bracket
                 values.pop();
             } else {
                 return false;
@@ -31,7 +31,5 @@ public class ValidParentheses {
 
         return values.empty();
     }
-
-
 
 }
