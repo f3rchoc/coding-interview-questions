@@ -1,4 +1,4 @@
-package ec.ferchoc.leetcode;
+package ec.ferchoc.java.leetcode;
 
 /**
  * From <a href="https://leetcode.com/problems/palindrome-number/">palindrome-number</a>.

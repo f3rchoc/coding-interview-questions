@@ -1,4 +1,4 @@
-package ec.ferchoc.leetcode;
+package ec.ferchoc.java.leetcode;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

@@ -1,4 +1,4 @@
-package ec.ferchoc.leetcode;
+package ec.ferchoc.java.leetcode;
 
 /**
  * From {@link <a href="https://leetcode.com/problems/remove-element/">remove-element</a>}

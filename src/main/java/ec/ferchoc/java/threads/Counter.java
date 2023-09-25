@@ -1,4 +1,4 @@
-package ec.ferchoc.threads;
+package ec.ferchoc.java.threads;
 
 public class Counter {
 

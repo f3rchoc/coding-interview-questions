@@ -1,4 +1,4 @@
-package ec.ferchoc;
+package ec.ferchoc.java;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ec.ferchoc.random;
+package ec.ferchoc.java.random;
 
 public class BinarySearch {
 
@@ -14,7 +14,7 @@ public class BinarySearch {
         var high = sortedList.length - 1;
 
         while (low <= high) {
-            var mid = (high + low) / 2;
+            var mid = (high + low) / 2; ////lowerBound + ( upperBound - lowerBound ) / 2
             var guest = sortedList[mid];
             if (guest == item) {
                 return mid;

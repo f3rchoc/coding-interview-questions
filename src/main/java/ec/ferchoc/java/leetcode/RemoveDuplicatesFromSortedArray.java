@@ -1,4 +1,4 @@
-package ec.ferchoc.leetcode;
+package ec.ferchoc.java.leetcode;
 
 /**
  * From <a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">remove-duplicates-from-sorted-array</a>.

@@ -1,4 +1,4 @@
-package ec.ferchoc.leetcode;
+package ec.ferchoc.java.leetcode;
 
 import java.util.Map;
 import java.util.Stack;

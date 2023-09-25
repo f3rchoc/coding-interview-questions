@@ -1,4 +1,4 @@
-package ec.ferchoc.random;
+package ec.ferchoc.java.random;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

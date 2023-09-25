@@ -1,4 +1,4 @@
-package ec.ferchoc.random;
+package ec.ferchoc.java.random;
 
 /**
  * Random problem. Convert a input string to integer.
